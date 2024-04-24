@@ -96,7 +96,7 @@ Git - Jenkins - JMeter - Docker - Kubernetes - Kafka - Hadoop - AWS - Azure
 <br/>  
 
 <div align="center">
-<img src="https://i.redd.it/axt0gdvzl0a91.gif" align="center" style="width: 100%" />
+<img src="https://github.com/ElysianStorm/ElysianStorm/blob/main/pixel_art_camping_github.gif" align="center" style="width: 100%" height="200px" />
 </div>  
   
 <div align="center">
