@@ -31,7 +31,7 @@ Welcome to my world!!! I am a **full stack data scientist** working at **Service
 <details><summary> Know More... </summary>
 
 ### A Brief Summary About Me:  
-I specialize in **ServiceNow** with certifications in CSA and CAD, **back-end development** and **deep learning**. My specialization in ServiceNow and back-end has enabled me to develop robust and solid cloud systems with scalable frameworks that are used across multiple cloud platforms. This coupled with my passion in ML/AI has allowed me to enhance platforms and systems with data analysis, reporting and optimizing systems for delivering value to clients and businesses.
+I specialize in **ServiceNow** with certifications in CSA, CAD and ITSM, **back-end development**, **data analytics** and **deep learning**. My specialization in ServiceNow and back-end has enabled me to develop robust and solid cloud systems with scalable frameworks that are used across multiple cloud platforms. This coupled with my passion in ML/AI has allowed me to enhance platforms and systems with data analysis, reporting and optimizing systems for delivering value to clients and businesses.
 
 I'm driven by continuous learning and thrive on challenges. My journey in AI and ML has been a captivating one, and I'm committed to staying at the forefront of this ever-evolving field. I try to keep posting about my learning's on [Medium](https://medium.com/@elysianstorm) and learn with the community at [Stack Overflow](https://stackoverflow.com/users/8231798/elysian-storm). Currently, I am deeply engrossed in RAG (Retrieval Augmented Generation) and am getting my hands dirty in it.
 
