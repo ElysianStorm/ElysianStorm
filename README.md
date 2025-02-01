@@ -23,7 +23,7 @@
 
 
 ### Greetings,  
-Welcome to my world!!! I am a **full stack data scientist** working at **ServiceNow**. My passion lies in **AI, Machine Learning**, and **Data Analytics**, where I've worked on diverse projects, pushing the boundaries of technology.  
+Welcome to my world!!! I am an **Associate** working at **Goldman Sachs**. My passion lies in **AI, Machine Learning**, and **Data Analytics**, where I've worked on diverse projects, pushing the boundaries of technology.  
   
 
 <br/>  
